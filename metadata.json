@@ -1,0 +1,6 @@
+{
+  "name": "12인용 멀티플레이어 마피아",
+  "description": "Firebase RTDB 연동 12인용 멀티플레이어 실시간 마피아 게임 (9개 특수 직업, 정밀 타이머 동기화, 실시간 채팅)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
